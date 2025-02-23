@@ -1,0 +1,44 @@
+﻿  BankSystem.cpp
+C:\Users\Youbass\Desktop\project\BankSystem\MyOwnLibraryString.h(51,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\MyOwnLibraryString.h(67,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\MyOwnLibraryString.h(322,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\MyOwnLibraryString.h(372,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\MyOwnLibraryString.h(440,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\MyOwnLibraryString.h(445,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsUser.h(196,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+      C:\Users\Youbass\Desktop\project\BankSystem\clsUser.h(39,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+      C:\Users\Youbass\Desktop\project\BankSystem\clsBankClient.h(153,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsTotalBalancesScreen.h(57,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsTransferScreen.h(48,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsTransferScreen.h(53,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsCurrencyCalculatorScreen.h(95,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\Youbass\Desktop\project\BankSystem\clsBankClient.h(335,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Youbass\Desktop\project\BankSystem\clsUser.h(369,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\Youbass\Desktop\project\BankSystem\x64\Debug\BankSystem.exe
